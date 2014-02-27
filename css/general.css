@@ -60,7 +60,8 @@ p span {
     overflow:hidden;
     background-image:url(../images/foxbillboard.jpg);
     background-color:grey; 
-    background-position:center left;
+    margin:.5rem 0 0;
+    background-position:center center;
     background-repeat:no-repeat;
     background-size:30rem;
     box-shadow:.2rem .2rem .2rem .2rem grey;
@@ -84,7 +85,15 @@ h2 {
     border-top:double .20rem;
     line-height:1.75rem;
     padding: .5rem .5rem ;
-}    
+}   
+
+figcaption {
+    font-size: .75rem;
+    font-weight:normal;
+    color: brown;
+    padding: .5rem 5%;
+    background-color:white;
+}
 
 .footerlogo {
     height:3rem;
