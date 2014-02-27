@@ -60,9 +60,9 @@ p span {
     overflow:hidden;
     background-image:url(../images/foxbillboard.jpg);
     background-color:grey; 
-    margin:.5rem 0 0;
+    margin:0 5% 2rem;
     background-position:center center;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-size:30rem;
     box-shadow:.2rem .2rem .2rem .2rem grey;
     border:solid .25rem white;
